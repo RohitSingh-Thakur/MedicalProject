@@ -13,6 +13,8 @@ public class MedicalController {
 			do {
 				System.out.println(BackgroundBrightBlack + BrightYellow +"****** Welcome TO Medical Store Project ****** "+ "\n" + "Press Any Key For Login...");
 				String choice = scannerMain.next();
+				System.out.println();
+				System.out.println();
 				int x = choice.length();
 				System.out.println(Reset);
 
