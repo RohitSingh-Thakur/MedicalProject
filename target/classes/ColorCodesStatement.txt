@@ -1,0 +1,14 @@
+System.out.println("\n" + BackgroundBlack+BrightYellow+"Do You Want To Continue...." + "\n" + "Type [Yes] or [No] For Main Menu ");
+	
+System.out.println(BackgroundBrightWhite + Red + "Invalid choice..Please Chose correct option.." + Reset);
+						
+	System.out.println(BackgroundBrightWhite + Red + message + Reset);
+	
+	System.out.println("\n"+BackgroundBlack + Green + message + Reset + "\n");
+	
+	
+	System.out.println(BackgroundBlack+Yellow+"Enter Medicine ID");
+	
+	System.out.println(BackgroundBrightBlack+BrightYellow+"Enter Product Name");
+								
+								import static com.rdst.utility.ColorCodes.*
